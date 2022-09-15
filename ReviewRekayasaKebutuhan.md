@@ -67,5 +67,3 @@ Persyaratan-persyaratan dalam proyek dipisahkan dari SRS. Persyaratan proyek
 merupakan pemahaman antara pelanggan dan pemasok tentang kontrak dan hal-hal
 yang berkaitan dengan produksi perangkat lunak seperti biaya, metode pengembangan,
 Jaminan Kualitas, prosedur validasi dan kriteria verifikasi dll.
-
-RIZAGANTENG
